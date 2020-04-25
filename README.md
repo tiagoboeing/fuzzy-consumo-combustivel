@@ -4,6 +4,8 @@
 
 Lógica de Fuzzy aplicada para cálculo de consumo de combustível dado algumas variáveis
 
+![](https://i.imgur.com/VVOr2sS.png)
+
 As variáveis que impactam no consumo de combustível do veículo são:
 
 - A velocidade que o mesmo se encontra;
